@@ -19,8 +19,4 @@ The objective of this exploratory data analysis (EDA) project is to understand t
 - Tool: Tableau 📊
 - Dataset: "2020_US_Region_Mobility_Report"
 
-## Contributors
-- [Your Name](link to your profile)
 
-## License
-This project is licensed under the [MIT License](link to license).
